@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgba(92, 54, 54, 0.693);
+}
+
+.DashCards {
+    text-align: left;
+    width: 100vw;
+    padding: 5px;
+}
+
+.Cards {
+    padding: 10px;
+}
